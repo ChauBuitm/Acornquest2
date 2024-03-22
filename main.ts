@@ -1,4 +1,4 @@
-console.log('Hi')
+console.log('Hihi')
 console.log('Hi')
 
 //
